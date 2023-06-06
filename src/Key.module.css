@@ -1,0 +1,18 @@
+
+
+.container {
+    color: black;
+    background-color: rgb(178, 178, 178);
+    border-radius: 7px;
+    /* width: 40px; */
+    padding: 20px 20px;
+    font-weight: 500;
+    transition: all 0.5s linear;
+    text-transform: uppercase;
+}
+
+.container:hover {
+    background-color: rgb(106, 106, 106);
+    color: white;
+    cursor: pointer;
+}
